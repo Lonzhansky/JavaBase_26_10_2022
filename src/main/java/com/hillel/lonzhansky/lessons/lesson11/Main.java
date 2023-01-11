@@ -1,6 +1,5 @@
 package com.hillel.lonzhansky.lessons.lesson11;
 
-import jdk.jshell.PersistentSnippet;
 
 public class Main {
     public static void main(String[] args) {
